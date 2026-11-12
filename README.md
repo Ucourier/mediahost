@@ -1,2 +1,1 @@
-# mediahost
-Hosting stuff
+This piece is very heavily inspired by mid 2010s meme culture, and also early videogame communities and how their individual fandoms developed. The site itself was very heavily inspired by https://theuselessweb.com/, which is, as implied by the URL, takes you to a random, and most likely useless site. My piece follows this principle of random, mostly useless practically, yet funny.
